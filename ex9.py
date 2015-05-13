@@ -1,4 +1,4 @@
-from helper_var  import ex_start, ex_end # not neccessary
+from helper_var  import ex_start, ex_end # some docoration in shell
 
 print ex_start
 days = "Mon Tue Wed Thu Fri Sat Sun"
